@@ -60,7 +60,7 @@ nav ul li a {
 	color: #006;
 	text-decoration: none;
 }
-p {
+h1, h2, p {
 	margin-bottom: 1em;
 }
 footer {
