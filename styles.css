@@ -59,6 +59,10 @@ main {
 	flex: 3;
 	padding: 30px 20px;
 }
+
+article {
+	border-radius: 1rem;
+}
 nav ul li a:hover {
 	color: var(--celestial-blue);
 	text-decoration: underline;
@@ -77,6 +81,11 @@ footer {
 	font-size:.7em;
 	text-align: center;
 }
+
+article {
+	border-radius: 1rem;
+}
+
 p img {
 	padding: 0;
 	max-width: 100%;
@@ -106,3 +115,4 @@ img.alignleft {
 .alignleft {
 	float: left
 	}
+	
